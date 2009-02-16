@@ -8,10 +8,10 @@ body {
 	margin: 0;
 	padding: 0;
 }
-a[href] {
-	color: #525151;
+/*a[href] {
+  color: #525151;
 }
-
+*/
 #wrapper { /* IE workaround */
 	margin: 0 auto;
 	padding: 0;
