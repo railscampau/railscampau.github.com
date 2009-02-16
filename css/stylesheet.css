@@ -26,7 +26,7 @@ html>body #wrapper {
 
 #header {
 	position: relative;
-	background: #00BE00;
+	background: #eee;
 	height: 160px;
 	padding-left: 15px;
 }
@@ -37,7 +37,7 @@ html>body #wrapper {
 	width: 380px;
 	height: 50px;
 	cursor: pointer;
-	color: white;
+	color: #2F96D4;
 }
 
 #navigation {
