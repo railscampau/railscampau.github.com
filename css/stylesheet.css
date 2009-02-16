@@ -26,12 +26,13 @@ html>body #wrapper {
 
 #header {
 	position: relative;
-	background: #2F96D4;
-	height: 113px;
+	background: #00BE00;
+	height: 160px;
+	padding-left: 15px;
 }
 #header h1 {
 	position: absolute;
-	left: 60px;
+	left: 270px;
 	top: 40px;
 	width: 380px;
 	height: 50px;
