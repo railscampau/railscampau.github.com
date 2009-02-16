@@ -97,6 +97,7 @@ html>body #content {
 	min-height: 584px; /* (64+2*20+2)*6 - 2 - 2*25 */
 	background: #fff;
 }
+
 #content :first-child {
 	margin-top: 0px;
 }
