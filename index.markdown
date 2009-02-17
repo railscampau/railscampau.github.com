@@ -41,7 +41,7 @@ Subscribe to the [RailsCamp Latest News](feed://railscampau.github.com/atom.xml)
 
 Subscribe to the [RailsCamp Mailing List](http://groups.google.com/group/railscamp) for a lot of chin wagging.
 
-## Buses from Brisbane
+## Buses from Gold Coast
 
 We're aiming on organising a bus transfer from Gold Coast airport at 3:30pm, and returning to Gold Coast airport at 10am on Monday morning.
 
