@@ -1,6 +1,6 @@
 ---
 layout: default
-title: RailsCamp.au/5 May 15=18th 2008
+title: RailsCamp.au 5 - May 15-18th 2008
 ---
 
 # Registration now open

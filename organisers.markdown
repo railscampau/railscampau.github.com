@@ -1,6 +1,6 @@
 ---
 layout: default
-title: RailsCamp.au > Organisers
+title: RailsCamp.au 5 > Organisers
 ---
 
 ## Key contacts
