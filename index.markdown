@@ -16,8 +16,7 @@ title: RailsCamp.au 5 - May 15-18th 2008
 * Where: [Koonjewarre Retreat Centre](http://www.koonjewarre.com/index.html), Gold Coast Hinterland, Queensland
 * Airport: [Gold Coast Airport](http://www.koonjewarre.com/index.html), Coolangatta
 
-The venue we are booking has capacity for up to 150 people. We will have a separate dining hall and multiple smaller areas for chillout/ 
-Werewolf/Guitar Hero/etc.
+The venue we are booking has capacity for up to 150 people. We will have a separate dining hall and multiple smaller areas for chillout/Werewolf/Guitar Hero/etc.
 
 The venue is also fully catered and we will have three hot cooked meals per day (including Friday night & Monday morning). The caterers will be responsible for packing/unpacking this and general clean up.
 
