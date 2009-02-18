@@ -14,7 +14,7 @@ title: RailsCamp.au 5 - May 15-18th 2008
 * Date: May 15-18 2009
 * Cost: $164
 * Where: [Koonjewarre Retreat Centre](http://www.koonjewarre.com/index.html), Gold Coast Hinterland, Queensland
-* Airport: [Gold Coast Airport](http://www.koonjewarre.com/index.html), Coolangatta
+* Airport: Gold Coast Airport, Coolangatta
 
 The venue we are booking has capacity for up to 150 people. We will have a separate dining hall and multiple smaller areas for chillout/Werewolf/Guitar Hero/etc.
 
