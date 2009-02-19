@@ -42,7 +42,7 @@ Subscribe to the [RailsCamp Mailing List](http://groups.google.com/group/railsca
 
 ## Buses from Gold Coast
 
-We're aiming to organise a bus transfer from Gold Coast airport at 3:30pm on Friday, and returning to Gold Coast airport at 10am on Monday morning.
+We're aiming to organise a bus transfer from Gold Coast airport at 3:30pm on Friday, and will return to the Gold Coast airport before 10am on Monday morning.
 
 Its estimated the cost for the bus will be $45 or so. When final numbers are known, a final price will be set and money collected for this at that time.
 
