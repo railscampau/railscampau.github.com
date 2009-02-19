@@ -168,13 +168,17 @@ html>body #content {
 
 img.align-right {
   float: right;
-  padding-left: 5px;
-  padding-bottom: 5px;
+  margin-left: 5px;
+  margin-bottom: 5px;
 }
 
 div#photos img {
   width: 200px;
   height: 133px;
-  padding-right: 5px;
-  padding-bottom: 5px;
+  margin-right: 5px;
+  margin-bottom: 5px;
+}
+
+a img {
+  border: 0px;
 }
